@@ -266,7 +266,8 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: url(img/header-bg.jpg);
+    /* background-image: url(img/header-bg.jpg); */
+	background-image: url(img/bilde_svart.jpg);
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
@@ -335,9 +336,10 @@ section h3.section-subheading {
     margin-bottom: 75px;
     text-transform: none;
     font-family: "Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-size: 16px;
+    font-size: 20px;
     font-style: italic;
     font-weight: 400;
+	color:black;
 }
 
 @media(min-width:768px) {
