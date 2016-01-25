@@ -510,6 +510,7 @@ section h3.section-subheading {
     position: relative;
     margin-bottom: 50px;
     min-height: 50px;
+	padding-top:100px;
 }
 
 .timeline>li:before,
@@ -555,7 +556,9 @@ section h3.section-subheading {
     border-radius: 100%;
     text-align: center;
     color: #fff;
+	/* margin-top: 100px; */
     background-color: #{{ site.color.primary }};
+	
 }
 
 .timeline>li .timeline-image h4 {
@@ -642,6 +645,7 @@ section h3.section-subheading {
 @media(min-width:992px) {
     .timeline>li {
         min-height: 150px;
+		padding-top:100px;
     }
 
     .timeline>li .timeline-panel {
