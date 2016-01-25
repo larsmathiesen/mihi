@@ -177,7 +177,8 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default .navbar-brand {
     font-family: "Kaushan Script","Helvetica Neue",Helvetica,Arial,cursive;
-    color: #{{ site.color.primary }};
+    /* color: #{{ site.color.primary }}; */
+	/* color:#000; */
 }
 
 .navbar-default .navbar-brand:hover,
@@ -185,19 +186,24 @@ fieldset[disabled] .btn-xl.active {
 .navbar-default .navbar-brand:active,
 .navbar-default .navbar-brand.active {
     color: #{{ site.color.secondary }};
+	/* color: #CBE6D3; */
 }
 
 .navbar-default .navbar-collapse {
     border-color: rgba(255,255,255,.02);
+	color:#fe0f0e	;
 }
 
 .navbar-default .navbar-toggle {
     border-color: #{{ site.color.primary }};
     background-color: #{{ site.color.primary }};
+	/* color:fff !important; */
 }
 
 .navbar-default .navbar-toggle .icon-bar {
     background-color: #fff;
+    /* background-color: #000; */
+	/* color:#000 */
 }
 
 .navbar-default .navbar-toggle:hover,
@@ -210,7 +216,9 @@ fieldset[disabled] .btn-xl.active {
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 400;
     letter-spacing: 1px;
-    color: #fff;
+    color: #fff; 
+    /* color: #463482; */
+    /* color: #CBE6D3; */
 }
 
 .navbar-default .nav li a:hover,
@@ -231,7 +239,33 @@ fieldset[disabled] .btn-xl.active {
     background-color: #{{ site.color.secondary }};
 }
 
+	.navbar-shrink .nav li a {
+        color:#fff !important;
+    }
+	.navbar-shrink .navbar-brand {
+        font-size: 1.5em;
+		 color:#ffffff;
+    }
+	
+	/* .navbar-default .nav li a {
+        color:#fff !important;
+    } */
+	
+	
+	
+
 @media(min-width:768px) {
+
+.navbar-default .nav li a {
+    text-transform: uppercase;
+    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 400;
+    letter-spacing: 1px;
+    color: #000; 
+    /* color: #463482; */
+    /* color: #CBE6D3; */
+}
+
     .navbar-default {
         padding: 25px 0;
         border: 0;
@@ -246,7 +280,12 @@ fieldset[disabled] .btn-xl.active {
         -webkit-transition: all .3s;
         -moz-transition: all .3s;
         transition: all .3s;
+		color:#000;
     }
+	
+
+	
+
 
     .navbar-default .navbar-nav>.active>a {
         border-radius: 3px;
@@ -255,11 +294,29 @@ fieldset[disabled] .btn-xl.active {
     .navbar-default.navbar-shrink {
         padding: 10px 0;
         background-color: #222;
+		
     }
 
-    .navbar-default.navbar-shrink .navbar-brand {
+    .navbar-shrink .navbar-brand {
         font-size: 1.5em;
+		 color:#ffffff;
     }
+	
+	
+	
+	/* .navbar-default .nav li a { */
+	/* .navbar-shrink .navbar-nav>.hidden>a { */
+	.navbar-shrink .nav li a {
+        color:#fff !important;
+    }
+	.navbar-shrink .nav  {
+        color:#fff !important;
+    }
+	
+	.navbar-default  .navbar-brand  .navbar-shrink {
+        color:#fff !important; /* aaa*/
+    }
+		 
 }
 
 header {
@@ -267,13 +324,14 @@ header {
     color: #fff;
     background-attachment: scroll;
     /* background-image: url(img/header-bg.jpg); */
-	background-image: url(img/bilde_svart.jpg);
+	background-image: url(img/Mihi_headerbilde_v1.png);
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
+    padding-top: 450px;
 }
 
 header .intro-text {
