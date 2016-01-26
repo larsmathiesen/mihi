@@ -9,6 +9,15 @@ body {
     font-family: "Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
     color: #{{ site.color.secondary-dark }};
 }
+video { 
+   width:220px; 
+   height:150px;  
+   background:transparent url('img/video-poster.png') no-repeat 0 0; 
+   -webkit-background-size:cover; 
+   -moz-background-size:cover; 
+   -o-background-size:cover; 
+   background-size:cover; 
+}
 
 .text-muted {
     color: #777;
@@ -255,6 +264,16 @@ fieldset[disabled] .btn-xl.active {
 	
 
 @media(min-width:768px) {
+
+video { 
+   width:600px; 
+   height:400px;  
+   background:transparent url('img/video-poster.png') no-repeat 0 0; 
+   -webkit-background-size:cover; 
+   -moz-background-size:cover; 
+   -o-background-size:cover; 
+   background-size:cover; 
+}
 
 .navbar-default .nav li a {
     text-transform: uppercase;
