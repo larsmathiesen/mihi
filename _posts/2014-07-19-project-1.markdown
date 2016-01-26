@@ -1,5 +1,5 @@
 ---
-title: Empatifasen
+title: Empati
 subtitle: aaa
 layout: default
 modal-id: 1
