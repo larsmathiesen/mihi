@@ -35,12 +35,8 @@ people:
   position: Kvalitetsleder
   position2: Resipientanalyse AS
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+    - title: linkedin
+      url: https://www.linkedin.com/in/aasebh
 
 - name: Øyvind Setnes
   pic: oivind.png
