@@ -18,9 +18,22 @@ color:
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
-  pic: 1
-  position: Lead Designer
+- name: Åsta Lindemann
+  pic: aasta.png
+  position: Seniordesigner
+  position2: Haltenbanken
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+- name: Åse Berge Haveland
+  pic: aase.png
+  position: Kvalitetsleder
+  position2: Resipientanalyse AS
   social:
     - title: twitter
       url: #
@@ -29,9 +42,10 @@ people:
     - title: stack-overflow
       url: #
 
-- name: Larry Parker
-  pic: 2
-  position: Lead Marketer
+- name: Øyvind Setnes
+  pic: oivind.png
+  position: Forretningsutvikler
+  position2: Tryg Forsikring
   social:
     - title: twitter
       url: #
@@ -40,9 +54,10 @@ people:
     - title: linkedin
       url: #
 
-- name: Diana Petersen
-  pic: 3
-  position: Lead Developer
+- name: Henning Klafstad
+  pic: henning.png
+  position: Seniorrådgiver
+  position2: Nasjonalt senter for mat, helse og fysisk aktivitet
   social:
     - title: twitter
       url: #
@@ -50,6 +65,17 @@ people:
       url: #
     - title: google-plus
       url: #
+
+- name: Lars Mathiesen
+  pic: lars.png
+  position: Seniorkonsulent
+  position2: Webstep AS
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/larsmathiesen
+    - title: external-link
+      url: http://www.webstep.no
+
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
