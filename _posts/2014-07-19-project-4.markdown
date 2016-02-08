@@ -1,0 +1,14 @@
+---
+title: Om prosjektet
+subtitle: aaa
+layout: default
+modal-id: 4
+date: 2014-07-18
+img: dreams.png
+thumbnail: dreams-thumbnail.png
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: Nasjonalt senter for mat, helse og fysisk aktivitet er arkitekten bak vår utfordring<span>:</span><br><br><i>Kan app- og spillteknologi være en nøkkel til å redusere stillesitting og overvekt blant barn og unge?</i><br><br>Denne utfordrende og aktuelle problemstillingen har fulgt teamet i 10 måneder, og har gitt oss alle de utfordringer som trengs for å lære prosessene i Design Thinking. Design Thinking retter stor oppmerksomhet på empati for sluttbrukeren. Dette fokuset har gitt oss innsikt og perspektiv som grunnlag for idemyldring og utprøving av ideer. Takket være nye synspunkter og synsvinkler har teamet i løpet av studiet klart å komme frem til en prototype som møter barna på deres egen arena. Uten Design Thinking ville prototypen blitt annerledes - et konsept utviklet ved fokus på teknologi, og tematikken overvekt og fysisk aktivitet blant barn fra et perspektiv basert på teamets egne antagelser og erfaring.<br><br>Studiet er et videreutdanningsprogram (pilotstudie) utviklet og gjennomført av DesignArena, Norges Handelshøyskole (NHH), Kunst- og designhøgskolen i Bergen (KHiB), Høgskolen i Bergen (HiB) og Design Region Bergen.
+---
