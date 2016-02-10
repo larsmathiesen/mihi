@@ -23,12 +23,6 @@ people:
   position: Seniordesigner
   position2: Haltenbanken
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
 
 - name: Åse Berge Haveland
   pic: aase.png
@@ -40,27 +34,21 @@ people:
 
 - name: Øyvind Setnes
   pic: oivind.png
-  position: Forretningsutvikler
+  position: Senior forretningsutvikler
   position2: Tryg Forsikring
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
+    - title: envelope
+      url: mailto:oivind.setnes@tryg.no    
 
 - name: Henning Klafstad
   pic: henning.png
   position: Seniorrådgiver
   position2: Nasjonalt senter for mat, helse og fysisk aktivitet
   social:
-    - title: twitter
-      url: #
+    - title: envelope
+      url: mailto:henning.klafstad@hib.no
     - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+      url: https://www.facebook.com/Nasjonalt-senter-for-mat-helse-og-fysisk-aktivitet-120894154919278/
 
 - name: Lars Mathiesen
   pic: lars.png
@@ -69,8 +57,8 @@ people:
   social:
     - title: linkedin
       url: https://www.linkedin.com/in/larsmathiesen
-    - title: external-link
-      url: http://www.webstep.no
+    - title: envelope
+      url: mailto:lmathiesen@gmail.com
 
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
