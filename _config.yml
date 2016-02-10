@@ -31,6 +31,8 @@ people:
   social:
     - title: linkedin
       url: https://www.linkedin.com/in/aasebh
+    - title: envelope
+      url: mailto:berge-haveland@hotmail.no
 
 - name: Øyvind Setnes
   pic: oivind.png
