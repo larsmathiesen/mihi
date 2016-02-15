@@ -19,13 +19,13 @@ color:
 # Team names, titles and social links
 people:
 - name: Åsta Lindemann
-  pic: aasta.png
+  pic: aasta.jpg
   position: Seniordesigner
   position2: Haltenbanken
   social:
 
 - name: Åse Berge Haveland
-  pic: aase.png
+  pic: aase.jpg
   position: Kvalitetsleder
   position2: Resipientanalyse AS
   social:
@@ -35,7 +35,7 @@ people:
       url: mailto:berge-haveland@hotmail.no
 
 - name: Øyvind Setnes
-  pic: oivind.png
+  pic: oivind.jpg
   position: Senior forretningsutvikler
   position2: Tryg Forsikring
   social:
